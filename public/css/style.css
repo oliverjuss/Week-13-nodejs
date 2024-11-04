@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: aqua;
+}
+.container
+{
+    text-align: center;
+    margin: 5rem auto;
+    width: 75%;
+}
+
+form
+{
+    margin: 2rem;
+}
+
+p
+{
+    padding: 0.5rem;
+}
